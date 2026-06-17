@@ -21,3 +21,12 @@
 </td>
 </tr>
 </table>
+
+
+<p align="center">
+  <img src="assets/wp4994103-dedsec-iphone-wallpapers.png" width="250">
+</p>
+
+<p align="center">
+  <img src="YOUR_TYPING_SVG_URL">
+</p>
